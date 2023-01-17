@@ -1,5 +1,4 @@
 hello git! fighting!!!  I am master
-hello git! fighting!!!  
 hello git! fighting!!!
 hello git! fighting!!!
 hello git! fighting!!!
@@ -17,4 +16,5 @@ hello git! fighting!!!
 hello git! fighting!!!
 hello git! fighting!!! 
 hello git! fighting!!!     
-hello git! fighting!!   
+hello git! fighting!!!
+hello git! fighting!!!   
