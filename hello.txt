@@ -1,4 +1,6 @@
 hello git! fighting!!! I am hot-fix!!!!   test conflic
+hello git! fighting!!! I am hot-fix!!!!      
+hello git! fighting!!!
 hello git! fighting!!!
 hello git! fighting!!!
 hello git! fighting!!!
@@ -15,3 +17,4 @@ hello git! fighting!!!
 hello git! fighting!!!
 hello git! fighting!!! 
 hello git! fighting!!!     
+hello git! fighting!!    test conflic 
